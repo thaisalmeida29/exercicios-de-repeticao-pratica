@@ -1,0 +1,15 @@
+C:\Users\thais-almeida\Documents\workspace\exerciciosaula1205\exercicio15\bin\Debug\net6.0\exercicio15.exe
+C:\Users\thais-almeida\Documents\workspace\exerciciosaula1205\exercicio15\bin\Debug\net6.0\exercicio15.deps.json
+C:\Users\thais-almeida\Documents\workspace\exerciciosaula1205\exercicio15\bin\Debug\net6.0\exercicio15.runtimeconfig.json
+C:\Users\thais-almeida\Documents\workspace\exerciciosaula1205\exercicio15\bin\Debug\net6.0\exercicio15.dll
+C:\Users\thais-almeida\Documents\workspace\exerciciosaula1205\exercicio15\bin\Debug\net6.0\exercicio15.pdb
+C:\Users\thais-almeida\Documents\workspace\exerciciosaula1205\exercicio15\obj\Debug\net6.0\exercicio15.csproj.AssemblyReference.cache
+C:\Users\thais-almeida\Documents\workspace\exerciciosaula1205\exercicio15\obj\Debug\net6.0\exercicio15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thais-almeida\Documents\workspace\exerciciosaula1205\exercicio15\obj\Debug\net6.0\exercicio15.AssemblyInfoInputs.cache
+C:\Users\thais-almeida\Documents\workspace\exerciciosaula1205\exercicio15\obj\Debug\net6.0\exercicio15.AssemblyInfo.cs
+C:\Users\thais-almeida\Documents\workspace\exerciciosaula1205\exercicio15\obj\Debug\net6.0\exercicio15.csproj.CoreCompileInputs.cache
+C:\Users\thais-almeida\Documents\workspace\exerciciosaula1205\exercicio15\obj\Debug\net6.0\exercicio15.dll
+C:\Users\thais-almeida\Documents\workspace\exerciciosaula1205\exercicio15\obj\Debug\net6.0\refint\exercicio15.dll
+C:\Users\thais-almeida\Documents\workspace\exerciciosaula1205\exercicio15\obj\Debug\net6.0\exercicio15.pdb
+C:\Users\thais-almeida\Documents\workspace\exerciciosaula1205\exercicio15\obj\Debug\net6.0\exercicio15.genruntimeconfig.cache
+C:\Users\thais-almeida\Documents\workspace\exerciciosaula1205\exercicio15\obj\Debug\net6.0\ref\exercicio15.dll
